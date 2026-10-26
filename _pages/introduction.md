@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /introduction/
-title: introduction
+title: Introduction
 description:
 nav: true
 nav_order: 1

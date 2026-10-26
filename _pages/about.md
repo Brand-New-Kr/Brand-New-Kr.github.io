@@ -1,26 +1,25 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: Postdoctoral Scientist, Department of Environmental Chemistry, <a href='https://www.eawag.ch/'>Eawag</a>
+# 사진을 넣으려면 아래 7줄의 맨 앞 "# "를 지우고,
+# assets/img/prof_pic.jpg 로 본인 사진을 올리세요.
+# profile:
+#   align: right
+#   image: prof_pic.jpg
+#   image_circular: false
+#   more_info: >
+#     <p>Eawag, Überlandstrasse 133</p>
+#     <p>8600 Dübendorf, Switzerland</p>
 
-profile:
-  align: right
-  # image: prof_pic.jpg   # <- 사진을 넣으려면 이 줄 맨 앞의 "# "를 지우고,
-  #                          assets/img/prof_pic.jpg 로 사진을 올리세요
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Eawag</p>
-    <p>Überlandstrasse 133</p>
-    <p>8600 Dübendorf, Switzerland</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false
 social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 6 # leave blank to include all the news in the `_news` folder
+  scrollable: false
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
