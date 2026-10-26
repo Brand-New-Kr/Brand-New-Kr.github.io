@@ -6,7 +6,8 @@ subtitle: Postdoctoral Scientist, Department of Environmental Chemistry, <a href
 
 profile:
   align: right
-  image: prof_pic.jpg
+  # image: prof_pic.jpg   # <- 사진을 넣으려면 이 줄 맨 앞의 "# "를 지우고,
+  #                          assets/img/prof_pic.jpg 로 사진을 올리세요
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Eawag</p>
