@@ -7,6 +7,8 @@ nav: true
 nav_order: 4
 ---
 
+{% include sc-custom.liquid %}
+
 **Shinhyeong Choe**
 Department of Environmental Chemistry
 Eawag, Swiss Federal Institute of Aquatic Science and Technology

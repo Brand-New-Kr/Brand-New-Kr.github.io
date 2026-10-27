@@ -4,7 +4,7 @@
 # cv_pdf: /assets/pdf/cv.pdf # uncomment once you put your CV PDF in assets/pdf/
 email: shinhyeong.choe@eawag.ch # your email address
 linkedin_username: shinhyeong-choe # your LinkedIn username
-rss_icon: false # set to true to show the RSS icon
+# rss_icon: true  # ← 이 줄의 주석을 풀면 RSS 아이콘이 다시 생깁니다
 scholar_userid: DtD5fP0AAAAJ # your Google Scholar ID
 # orcid_id: # your ORCID, e.g. 0000-0002-1825-0097
 # github_username: Brand-New-Kr

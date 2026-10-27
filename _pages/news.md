@@ -7,6 +7,8 @@ nav: false # 상단 메뉴에는 넣지 않고, 홈의 "All news" 에서만 들�
 nav_order: 5
 ---
 
+{% include sc-custom.liquid %}
+
 <style>
   .sc-newslist article { padding: 22px 0; border-bottom: 1px solid rgba(128,128,128,0.22); }
   .sc-newslist article:first-of-type { border-top: 1px solid rgba(128,128,128,0.22); }
@@ -18,7 +20,7 @@ nav_order: 5
 {% assign items = site.news | sort: "date" | reverse %}
 {% for item in items %}
   <article>
-    <time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%d %B %Y" }}</time>
+    <time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%b %Y" }}</time>
     {{ item.content }}
   </article>
 {% endfor %}

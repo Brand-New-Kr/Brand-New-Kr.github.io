@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+{% include sc-custom.liquid %}
+
 <style>
   .pubs { margin-top: 6px; }
   .pubs h2 {

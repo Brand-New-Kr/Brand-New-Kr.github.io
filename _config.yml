@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Shinhyeong
 middle_name:
 last_name: Choe
-contact_note: >
-  Email is the best way to reach me.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Postdoctoral scientist at Eawag working on the biodegradation of water-soluble polymers,
   environmental chemistry, and metagenomics.

@@ -1,0 +1,16 @@
+{%- comment -%}
+  사이트 전체에 적용되는 개인 설정.
+  각 페이지 맨 위에서 {% raw %}{% include sc-custom.liquid %}{% endraw %} 로 불러옵니다.
+{%- endcomment -%}
+<style>
+  /* ── 강조색: 보라(#b509ac) → 파랑(#2698ba) ──────────────────
+     다크모드가 이미 쓰던 파란색으로 통일했습니다.
+     색을 바꾸려면 아래 두 줄의 값만 고치세요.
+  ------------------------------------------------------------- */
+  html,
+  html[data-theme="light"],
+  :root {
+    --global-theme-color: #2698ba;
+    --global-hover-color: #2698ba;
+  }
+</style>

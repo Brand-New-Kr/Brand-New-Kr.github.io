@@ -18,6 +18,8 @@ latest_posts:
   limit:
 ---
 
+{% include sc-custom.liquid %}
+
 <style>
   /* al-folio 가 about 페이지 맨 위에 자동으로 넣는 이름/부제를 숨깁니다 (히어로와 중복) */
   .post-header, .post-title, h1.post-title, .post .post-header, p.desc { display: none !important; }
@@ -33,7 +35,7 @@ latest_posts:
   .sc-hero__img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
   .sc-hero__veil { position: absolute; inset: 0; background: linear-gradient(100deg, rgba(8,34,44,.88) 0%, rgba(8,34,44,.64) 46%, rgba(8,34,44,.24) 100%); }
   .sc-hero__in { position: relative; width: 100%; max-width: 1180px; margin: 0 auto; padding: 64px 40px; }
-  .sc-eyebrow { margin: 0 0 14px; font-size: 12px; letter-spacing: .18em; text-transform: uppercase; color: #8ED6EA; font-weight: 700; }
+  .sc-eyebrow { margin: 0 0 14px; font-size: 12px; letter-spacing: .04em; color: #8ED6EA; font-weight: 700; }
   .sc-hero h1 { margin: 0; font-size: 46px; line-height: 1.1; letter-spacing: -.025em; font-weight: 800; color: #fff; max-width: 20ch; }
   .sc-hero h2 { margin: 18px 0 0; font-size: 21px; font-weight: 600; color: #BFE0EA; letter-spacing: -.01em; }
   .sc-hero p { margin: 14px 0 0; font-size: 16px; line-height: 1.7; color: #DCE7EB; max-width: 62ch; }
@@ -79,10 +81,10 @@ latest_posts:
   <img class="sc-hero__img" src="{{ '/assets/img/news/banner-wave.jpg' | relative_url }}" alt="">
   <span class="sc-hero__veil"></span>
   <div class="sc-hero__in">
-    <p class="sc-eyebrow">Eawag · Department of Environmental Chemistry</p>
+    <p class="sc-eyebrow">Eawag, Department of Environmental Chemistry</p>
     <h1>Biodegradation &amp; Environmental chemistry and microbiology</h1>
     <h2>Shinhyeong Choe, PhD.</h2>
-    <p>I am currently a Postdoctoral Scientist at Eawag, the Swiss Federal Institute of Aquatic Science and Technology, working at the interface of polymer biodegradation, environmental chemistry, metagenomics, and data-driven research.</p>
+    <p>I am currently a Postdoctoral Scientist at Eawag, the Swiss Federal Institute of Aquatic Science and Technology, working at the interface of polymer biodegradation, environmental chemistry, metagenomics, and data-driven modeling research.</p>
     <a class="sc-cta" href="{{ '/introduction/' | relative_url }}">More about my work
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" aria-hidden="true"><path d="M5 12h13M13 6l6 6-6 6"/></svg></a>
   </div>
