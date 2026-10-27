@@ -108,12 +108,12 @@ latest_posts:
 
       <!-- ===== 큰 기사 ===== -->
       <article class="sc-feat">
-        <img src="{{ '/assets/img/news/2026-09-chem-circularity.jpg' | relative_url }}" alt="Hierarchical endpoints for biodegradability claims">
+        <img src="{{ '/assets/img/news/2026-10-nature-communications.jpg' | relative_url }}" alt="Same biodegradable label, different fates">
         <div class="sc-feat__b">
-          <span class="sc-kicker">Commentary</span>
-          <h3>Making biodegradability a defensible claim for circularity</h3>
-          <p class="sc-meta">Sep 2026 · Chem Circularity</p>
-          <p class="sc-ex">A Commentary, as first author, on what it takes for a biodegradability claim to hold up in a circularity context.</p>
+          <span class="sc-kicker">Publication</span>
+          <h3>Divergent anaerobic fates of biodegradable plastics in landfill leachate</h3>
+          <p class="sc-meta">Oct 2026 · Nature Communications</p>
+          <p class="sc-ex">A key study from his Ph.D. dissertation at KAIST, published as a co-first author, in collaboration with Prof. Changsoo Lee's group at UNIST.</p>
         </div>
       </article>
 
@@ -121,11 +121,11 @@ latest_posts:
       <div class="sc-side">
 
         <article class="sc-card">
-          <img src="{{ '/assets/img/news/2026-10-nature-communications.jpg' | relative_url }}" alt="Same biodegradable label, different fates">
+          <img src="{{ '/assets/img/news/2026-09-chem-circularity.jpg' | relative_url }}" alt="Hierarchical endpoints for biodegradability claims">
           <div class="sc-card__b">
             <span class="sc-kicker">Publication</span>
-            <h3>Divergent anaerobic fates of biodegradable plastics in landfill leachate</h3>
-            <p class="sc-meta">Oct 2026 · Nature Communications</p>
+            <h3>Making biodegradability a defensible claim for circularity</h3>
+            <p class="sc-meta">Sep 2026 · Chem Circularity</p>
           </div>
         </article>
 

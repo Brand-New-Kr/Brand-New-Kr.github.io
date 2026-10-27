@@ -2,7 +2,7 @@
 layout: page
 permalink: /news/
 title: News
-description: Talks, awards, papers and moves, newest first.
+description:
 nav: false # 상단 메뉴에는 넣지 않고, 홈의 "All news" 에서만 들어갑니다
 nav_order: 5
 ---

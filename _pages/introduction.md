@@ -79,7 +79,7 @@ nav_order: 1
 <ul>
   <li>Biodegradability and environmental fate of polymers across natural and engineered systems</li>
   <li>Polymer–microbiome interactions and data-driven prediction of material persistence</li>
-  <li>Sustainable, bio-based, and environmentally safe polymeric materials</li>
+  <li>Sustainable, bio-based, and environmentally safe polymer materials</li>
 </ul>
 
 <h2>Education</h2>

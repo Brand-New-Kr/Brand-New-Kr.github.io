@@ -9,6 +9,12 @@ nav_order: 2
 
 {% include sc-custom.liquid %}
 
+<style>
+  /* 줄간격 아주 약간 넓힘 */
+  .post ul li, .post p { line-height: 1.82; }
+  .post ul li { margin-bottom: 5px; }
+</style>
+
 My research interests are:
 
 - Understanding the environmental biodegradation and fate of biodegradable plastics and water-soluble polymers
