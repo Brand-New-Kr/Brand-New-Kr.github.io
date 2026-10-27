@@ -55,14 +55,17 @@ nav_order: 3
 
 <div class="pubs" markdown="0">
 
-<h2>In preparation</h2>
+<!-- ===== 미출판 원고 (섹션 제목 없음) =====
+     상태(In preparation / In press / Under review / Submitted)는
+     제목 끝에 <span class="note"> 로 이어서 붙입니다.
+     항목을 더 넣으려면 아래 <li> ... </li> 를 통째로 복사해서 쓰세요.
+======================================= -->
 <ol>
 <li>
   <span class="num"></span>
   <div>
     <div class="au"><span class="me">S. Choe</span>*, J. Kim, H. Moon, Y. Kim, J. Choi, S. Lee, J. Myung*</div>
-    <div class="ti">Genome-resolved functional reorganization accompanies polymer-specific biodegradation of biodegradable plastics across a soil–river transition.</div>
-    <div class="so">In preparation.</div>
+    <div class="ti">Genome-resolved functional reorganization accompanies polymer-specific biodegradation of biodegradable plastics across a soil–river transition. <span class="note">In preparation.</span></div>
   </div>
 </li>
 </ol>
