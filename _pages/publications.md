@@ -60,7 +60,7 @@ nav_order: 3
   <span class="num"></span>
   <div>
     <div class="au"><span class="me">S. Choe</span>*, J. Kim, H. Moon, Y. Kim, J. Choi, S. Lee, J. Myung*</div>
-    <div class="ti">Exposure route governs the environmental fate of biodegradable plastics in freshwater.</div>
+    <div class="ti">Genome-resolved functional reorganization accompanies polymer-specific biodegradation of biodegradable plastics across a soil–river transition.</div>
     <div class="so">In preparation.</div>
   </div>
 </li>
