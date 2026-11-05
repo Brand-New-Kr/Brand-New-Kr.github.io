@@ -78,7 +78,7 @@ nav_order: 3
   <div>
     <div class="au"><span class="me">S. Choe</span>*, P.T.T. Ninh, J. Myung*</div>
     <div class="ti">Making biodegradability a defensible claim for circularity.</div>
-    <div class="so"><em>Chem Circularity</em>, accepted (2026).</div>
+    <div class="so"><em>Chem Circularity</em>, 1, 100160 (2026). <a class="doi" href="https://doi.org/10.1016/j.checir.2026.100160">DOI</a></div>
   </div>
 </li>
 
@@ -87,7 +87,7 @@ nav_order: 3
   <div>
     <div class="au"><span class="me">S. Choe</span>†, H. Choi†, H. Moon, W. Shin, S. Park, H. Park, J. Lee, S. Yoon, K. Konstantinidis, C. Lee*, J. Myung*</div>
     <div class="ti">Divergent anaerobic fates of biodegradable plastics in landfill leachate.</div>
-    <div class="so"><em>Nat. Commun.</em> (2026). <a class="doi" href="https://doi.org/10.1038/s41467-026-78850-w">DOI</a></div>
+    <div class="so"><em>Nat. Commun.</em>, in press (2026). <a class="doi" href="https://doi.org/10.1038/s41467-026-78850-w">DOI</a></div>
   </div>
 </li>
 
