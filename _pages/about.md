@@ -139,11 +139,11 @@ latest_posts:
         </article>
 
         <article class="sc-card">
-          <img src="{{ '/assets/img/news/2026-08-acs-fall-chicago.jpg' | relative_url }}" alt="ACS Fall 2026, Chicago">
+          <img src="{{ '/assets/img/news/2026-11-setac-montreal.jpg' | relative_url }}" alt="SETAC North America 47th Annual Meeting, Montreal">
           <div class="sc-card__b">
             <span class="sc-kicker">Conference</span>
-            <h3>ACS Fall 2026, Chicago</h3>
-            <p class="sc-meta">Aug 2026 · Anaerobic biodegradation in landfill leachate</p>
+            <h3>SETAC North America 47th Annual Meeting, Montreal</h3>
+            <p class="sc-meta">Nov 2026 · Anaerobic biodegradation in landfill leachate</p>
           </div>
         </article>
 
